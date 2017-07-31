@@ -1,3 +1,52 @@
 body {
-    background-image: url("../G&J.png");
+  background-color: #879BAF;
+  text-align: center;
+  font-family: 'Hammersmith One', sans-serif;
+  color: black;
+}
+
+.navbar {
+  font-family: 'Hammersmith One', sans-serif;
+  color: black;
+}
+
+.navbar-custom {
+  padding-top: 25px;
+}
+
+.navbar-brand {
+  padding-left: 25px;
+  padding-bottom: 40px;
+  color: #64313E;
+  font-size: 50px;
+}
+
+a {
+  color: #64313E;
+}
+
+.navlinks {
+  font-size: 20px;
+}
+
+.main {
+  padding-top: 100px;
+}
+
+.img-home {
+  max-width: 30%;
+  display: inline-block;
+  height: 300px;
+}
+
+#party {
+  padding: 30px;
+}
+
+#travel {
+  padding-bottom: 30px;
+}
+
+h2, h3, h1 {
+  color: #223A5E
 }
